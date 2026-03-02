@@ -327,9 +327,9 @@ export const members: Member[] = [
     program: "Computer Science",
     year: "2030",
     // options: engineering, design, product, growth, ai/ml, research, hardware, quant, software, finance, vc
-    roles: [],
+    roles: [engineering, product, design, software],
     // options: fintech, ai, climate, healthcare, edtech, marketplaces, robotics, defense, hard tech, saas, consumer, creator tools
-    verticals: [],
+    verticals: [ai, saas, consumer],
     profilePic: "/photos/austin-jian.jpg",
     twitter: "https://x.com/austinjian_",
     linkedin: "https://www.linkedin.com/in/austin-jian",
